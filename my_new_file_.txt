@@ -1,0 +1,2 @@
+this is a new file for tutorial 'github'
+this is a sample file
